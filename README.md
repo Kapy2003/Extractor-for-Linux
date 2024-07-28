@@ -1,4 +1,4 @@
-## For the Script to run you must have [7zip]
+## For the Script to run perfectly you need to follow the steps:
 ## Step 1:
 # If you don't have [7zip] use:
 
