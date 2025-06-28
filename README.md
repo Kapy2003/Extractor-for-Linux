@@ -6,12 +6,11 @@
     ```sh
     sudo apt install p7zip
     ```
-2. [Arch] based systems:
-   ```sh
+2. #### Arch:
+```bash
    sudo pacman -Syu p7zip
    ```
-## Step 2:
-
-```sh
+#### Debian/Ubuntu:
+```bash
 chmod +x ./extractor.sh
 ```
